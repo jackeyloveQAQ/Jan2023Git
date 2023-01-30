@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "dJRoq/Yzf25pqevfzsfleO+NScwegATz+7hlsXDuHdR/nWcmDnVifc05mRZ1XaGMrNxOCwFiyYWpQz7KrxoN7Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Lynn\\Documents\\Jan2023\\Jan2023.Console3\\Jan2023.Console3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Day2 is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project Day2 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Day2",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Jan2023.Console is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project Jan2023.Console supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Jan2023.Console",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

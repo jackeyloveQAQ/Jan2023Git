@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Day2/1.0.0": {
+        "dependencies": {
+          "HelperLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Day2.dll": {}
+        }
+      },
+      "HelperLibrary/1.0.0": {
+        "runtime": {
+          "HelperLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HelperLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
