@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lynn\\Documents\\Jan2023\\HelperLibrary\\HelperLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Lynn\\Documents\\Jan2023Git\\Jan2023\\HelperLibrary\\HelperLibrary.csproj",
       "projectName": "HelperLibrary",
-      "projectPath": "C:\\Users\\Lynn\\Documents\\Jan2023\\HelperLibrary\\HelperLibrary.csproj",
+      "projectPath": "C:\\Users\\Lynn\\Documents\\Jan2023Git\\Jan2023\\HelperLibrary\\HelperLibrary.csproj",
       "packagesPath": "C:\\Users\\Lynn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lynn\\Documents\\Jan2023\\HelperLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Lynn\\Documents\\Jan2023Git\\Jan2023\\HelperLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
