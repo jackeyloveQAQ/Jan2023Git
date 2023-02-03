@@ -1,0 +1,15 @@
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\bin\Debug\net6.0\MultithreadingApp.exe
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\bin\Debug\net6.0\MultithreadingApp.deps.json
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\bin\Debug\net6.0\MultithreadingApp.runtimeconfig.json
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\bin\Debug\net6.0\MultithreadingApp.dll
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\bin\Debug\net6.0\MultithreadingApp.pdb
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\obj\Debug\net6.0\MultithreadingApp.csproj.AssemblyReference.cache
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\obj\Debug\net6.0\MultithreadingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\obj\Debug\net6.0\MultithreadingApp.AssemblyInfoInputs.cache
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\obj\Debug\net6.0\MultithreadingApp.AssemblyInfo.cs
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\obj\Debug\net6.0\MultithreadingApp.csproj.CoreCompileInputs.cache
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\obj\Debug\net6.0\MultithreadingApp.dll
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\obj\Debug\net6.0\refint\MultithreadingApp.dll
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\obj\Debug\net6.0\MultithreadingApp.pdb
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\obj\Debug\net6.0\MultithreadingApp.genruntimeconfig.cache
+C:\Users\Lynn\Documents\Jan2023Git\Jan2023\MultithreadingApp\obj\Debug\net6.0\ref\MultithreadingApp.dll

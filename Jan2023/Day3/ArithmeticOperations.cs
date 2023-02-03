@@ -20,6 +20,10 @@ namespace Day3
         {
             del(a, b);
         }
+        public static void Multiply(int first, int second)
+        {
+            Console.WriteLine(first * second);
+        }
 
         public void Sub(double a, int b)
         {

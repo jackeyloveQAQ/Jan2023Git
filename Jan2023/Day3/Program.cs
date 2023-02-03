@@ -2,6 +2,7 @@
 
 using Day3;
 using Day3.Entity;
+using System.Data.SqlClient;
 using System.Text; //Stringbuilder
 
 //string strST = "hello world";
@@ -32,6 +33,8 @@ using System.Text; //Stringbuilder
 ////List<List<List<int>>> lList = new List<List<List<int>>>();
 
 //Dictionary<int, List<string>> dict = new Dictionary<int, List<string>>();
+
+//SqlConnection sqlConnection = new SqlConnection("Data Source=.;Initial Catalog=Northwind;Integrated Security=True");
 
 try
 {
@@ -68,10 +71,10 @@ catch(Exception ex)
 }
 finally
 {
-
+    //sqlConnection.Close();
+    //sqlConnection.Dispose();
     Console.WriteLine("No matter what, I will run");
 }
-
 //using (SqlConnection con)
 //{
 
@@ -121,11 +124,14 @@ using abstracted interfaces rather than the objects themselves.
 
 */
 
-ArithmeticOperations ao = new ArithmeticOperations();
-MathDelegate math = new MathDelegate(ao.Addition);
+var ao = new ArithmeticOperations();
+var math = new MathDelegate(ao.Addition);
 math(10, 20);
 math += ao.Subtraction;
 math(30, 15);
+
+//math += ArithmeticOperations.Multiply;
+
 //math -= ao.Subtraction;
 //math = null; //clears any stored function pointers
 
@@ -134,3 +140,9 @@ ao.UseDelegate(math, 50, 25);
 //Action
 //Func
 //Predicate 
+
+SealedClassEx exOfMap = new SealedClassEx() { DepartmentId=100, DepartmentLocation= "Chicago",
+                                EmployeeId = 1000, EmployeeName = "Betty"};
+var empEx = new Employee();
+var depEx = new Department();
+empEx = exOfMap.MapHelper(ref depEx);

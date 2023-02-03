@@ -84,7 +84,6 @@ public class Program
         Arithmetic arith = new Arithmetic();
         arith.Multiply(10 , 20);
 
-
         //Generics
         //Design patterns
         //Sample application
